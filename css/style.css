@@ -1,0 +1,47 @@
+/* p {
+  background-color: chartreuse;
+  margin: 10px;  
+}
+
+.EstaEsClase {
+  background-color: cornflowerblue;
+}
+
+#titulo {
+  background-color: beige;
+} */
+
+body {
+  background-color: #1c1c1c;
+  color: #ffffff;
+  /* font family: 'Carrois Gothic SC', sans-serif; arreglar este y lo mismo en el html*/ 
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.contenido{
+  max-width: 600px;  
+  margin: 50px auto;
+}
+
+h1 {
+  color: #ffcc00;
+}
+
+a {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+a:hover{     /* pseudoclase */
+  text-decoration: underline;
+}
+
+p{
+  margin-bottom: 20px;
+}
+
+.hasttag{
+  color: #00cc66;
+}
