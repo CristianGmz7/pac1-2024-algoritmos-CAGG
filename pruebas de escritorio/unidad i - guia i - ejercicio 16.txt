@@ -1,0 +1,28 @@
+14.728 horas -> 14 horas : 43.68 min (0.728 * 60) 
+14 horas y 43.68 min -> 14 horas : 43 min : 40.8 seg (0.68 * 60) 
+14 horas : 43 min : 40.8 seg 
+
+189.34 min : 78.42 seg
+189.34 * 1 / 60 = 3.1557 horas
+78.42 * 1 / 3600 = 0.021783 horas
+__________
+3.177483 horas
+3 h : 7.04898 min
+3 h : 7 min : 2.9388 s
+
+PRUEBA DE ESCRITORIO DEFINITIVA
+189 min : 78 seg
+189 * 1 / 60 = 3.15 horas
+78 * 1 / 3600 = 0.026667 horas
+__________
+3.171667 horas
+3 h : 10.30002 min
+3 h : 10 min : 18.0012s
+
+354 min : 120 seg
+354 * 1 / 60 = 5.9 horas
+120 * 1 / 3600 = 5.933333 horas
+__________
+5.933333  horas
+5 h : 56 min
+5 h : 56 min : 0 s
